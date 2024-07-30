@@ -1,2 +1,2 @@
-# MYSQL-_projects
+# MYSQL_projects
 Collection of MYSQL Projects
